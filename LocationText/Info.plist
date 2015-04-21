@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>请点击[允许]允许访问与定位当前位置。</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>请点击[允许]允许访问与定位当前位置。</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
